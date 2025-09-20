@@ -1,6 +1,6 @@
 <img src="./assets/github-header-banner.png" alt="Header Banner" width="600">
 
-## 🚀 React.js & Next.js Specialist
+## 🖥️ React.js & Next.js Specialist
 
 I'm a passionate full-stack developer with **10+ years of experience** building scalable web applications across hospitality, real estate, and e-commerce industries. Based between **Zurich, Switzerland** and **Mykonos, Greece**, I collaborate with innovative teams across Europe to deliver exceptional digital solutions.
 
