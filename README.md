@@ -23,10 +23,10 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   2 mins          █████████████▒░░░░░░░░░░░   53.24 %
-TypeScript   1 min           ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-Markdown     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Text         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Text         3 mins          ██████████▒░░░░░░░░░░░░░░   41.24 %
+PowerShell   2 mins          ████████▒░░░░░░░░░░░░░░░░   33.22 %
+TypeScript   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Markdown     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 ```
 
 <!--END_SECTION:waka-->
