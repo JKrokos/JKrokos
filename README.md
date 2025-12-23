@@ -32,7 +32,7 @@ No activity tracked
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jkrokos&theme=flat&no-frame=true&margin-w=15&row=1&column=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jkrokos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
