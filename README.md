@@ -23,11 +23,11 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   16 mins         ██████████████▓░░░░░░░░░░   59.06 %
-CSS          3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-Text         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Markdown     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+TypeScript   8 mins          ████████████▒░░░░░░░░░░░░   49.09 %
+CSS          3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+Text         3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+JSON         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Git          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
