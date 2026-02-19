@@ -23,9 +23,9 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   18 mins               ████████████████████▓░░░░   82.89 %
-Python     3 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-SQL        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Markdown   14 mins               ███████████████████▓░░░░░   78.63 %
+Python     3 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
+SQL        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
