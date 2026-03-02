@@ -23,7 +23,7 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   15 mins               █████████████████████████   100.00 %
+HTML   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
