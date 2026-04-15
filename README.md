@@ -23,11 +23,9 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          32 mins               ██████████░░░░░░░░░░░░░░░   39.72 %
-Other        21 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-TypeScript   13 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-JavaScript   9 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-HTML         3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+HTML         3 mins                █████████████████▓░░░░░░░   70.09 %
+Text         1 min                 ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+TypeScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
