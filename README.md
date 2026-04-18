@@ -23,7 +23,9 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 <!--START_SECTION:waka-->
 
 ```txt
-Text   10 mins               █████████████████████████   100.00 %
+TypeScript   13 mins               █████████░░░░░░░░░░░░░░░░   36.51 %
+Other        12 mins               ████████▓░░░░░░░░░░░░░░░░   34.63 %
+Text         10 mins               ███████▒░░░░░░░░░░░░░░░░░   28.86 %
 ```
 
 <!--END_SECTION:waka-->
