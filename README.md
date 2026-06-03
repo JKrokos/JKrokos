@@ -23,9 +23,7 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   6 mins                ████████████▓░░░░░░░░░░░░   50.63 %
-XML          6 mins                ███████████▓░░░░░░░░░░░░░   46.20 %
-Other        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
