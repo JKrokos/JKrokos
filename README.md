@@ -23,8 +23,7 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   43 mins               ████████████████████████▓   98.61 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TypeScript   14 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
