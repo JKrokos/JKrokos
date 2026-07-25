@@ -1,8 +1,17 @@
 <img src="./assets/github-header-banner.png" alt="Header Banner" width="600">
 
-## 🖥️ React.js & Next.js Specialist
+## 🖥️ Full-Stack Product Engineer
 
-I'm a passionate full-stack developer with **10+ years of experience** building scalable web applications across hospitality, real estate, and e-commerce industries. Based between **Zurich, Switzerland** and **Mykonos, Greece**, I collaborate with innovative teams across Europe to deliver exceptional digital solutions.
+Co-founder & lead developer at [Webee](https://webee.gr) — 450+ production websites,
+booking systems, and payment integrations for the Mykonos hospitality sector over
+10+ years.
+
+Builder and operator of [GuestSync](https://guestsync.app) — a multi-tenant
+hospitality SaaS (Next.js, Node.js, PostgreSQL) running daily guest operations
+across **9 hotels**. Designed, built, and operated solo: schema, API, operator
+dashboard, deployments, monitoring, on-call.
+
+📍 Mykonos, Greece 🇬🇷 · EU citizen · Open to relocation
 
 ---
 
@@ -18,23 +27,11 @@ I'm a passionate full-stack developer with **10+ years of experience** building 
 
 ---
 
-## 📊 This Week I Spent My Time On
+## 🚀 What I'm Building
 
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   24 mins               ███████████████████▓░░░░░   79.02 %
-JavaScript   6 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
-## 🏆 GitHub Achievements
-
-![](https://github-trophies.vercel.app/?username=jkrokos)
+- **[GuestSync](https://guestsync.app)** — multi-tenant hospitality SaaS, in production across 9 hotels in Mykonos
+- **[Webee](https://webee.gr)** — the digital infrastructure of Mykonos hospitality: 450+ sites and counting
+- 🌱 Member of the [ZurichJS](https://zurichjs.com) developer community
 
 ---
 
@@ -43,13 +40,3 @@ Other        0 secs                ░░░░░░░░░░░░░░░
 [![Portfolio](https://img.shields.io/badge/Portfolio-jkrokos.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jkrokos.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ioannis%20Krokos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ioanniskrokos)
 [![Email](https://img.shields.io/badge/Email-i@jkrokos.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@jkrokos.dev)
-
-📍 **Locations:** Zurich, Switzerland 🇨🇭 • Mykonos, Greece 🇬🇷
-
----
-
-## 💡 Fun Facts
-
-- 🚀 Built my first website in **2013** and never looked back
-- 🌱 Active contributor to the **ZurichJS developer community**
-- ⚡ I've optimized page load times so much, I probably saved users years of waiting time combined!
