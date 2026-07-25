@@ -1,15 +1,12 @@
-<img src="./assets/github-header-banner.png" alt="Header Banner" width="600">
+# Ioannis Krokos
 
-## 🖥️ Full-Stack Product Engineer
+**Full-Stack Product Engineer** · Building and operating [GuestSync](https://guestsync.app) — a hospitality SaaS in production across 9 hotels
 
 Co-founder & lead developer at [Webee](https://webee.gr) — 450+ production websites,
-booking systems, and payment integrations for the Mykonos hospitality sector over
-10+ years.
+booking systems, and payment integrations for the Mykonos hospitality sector over 10+ years.
 
-Builder and operator of [GuestSync](https://guestsync.app) — a multi-tenant
-hospitality SaaS (Next.js, Node.js, PostgreSQL) running daily guest operations
-across **9 hotels**. Designed, built, and operated solo: schema, API, operator
-dashboard, deployments, monitoring, on-call.
+GuestSync is designed, built, and operated solo: Next.js, Node.js, PostgreSQL —
+schema, API, operator dashboard, deployments, monitoring, on-call.
 
 📍 Mykonos, Greece 🇬🇷 · EU citizen · Open to relocation
 
