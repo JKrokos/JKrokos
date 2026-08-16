@@ -2,13 +2,13 @@
 
 **Full-Stack Product Engineer** · Building and operating [GuestSync](https://guestsync.app) — a hospitality SaaS in production across 9 hotels
 
-Co-founder & lead developer at [Webee](https://webee.gr) — 450+ production websites,
-booking systems, and payment integrations for the Mykonos hospitality sector over 10+ years.
+Co-founder & lead developer at [Webee](https://webee.gr) — 500+ production websites,
+booking systems, and payment integrations for the Mykonos hospitality sector over 12+ years.
 
-GuestSync is designed, built, and operated solo: Next.js, Node.js, PostgreSQL —
-schema, API, operator dashboard, deployments, monitoring, on-call.
+GuestSync is designed, built, and operated solo: Next.js, TypeScript, Supabase (PostgreSQL) —
+schema, RLS-based tenant isolation, API, operator dashboard, deployments, monitoring, on-call.
 
-📍 Mykonos, Greece 🇬🇷 · EU citizen · Open to relocation
+📍 Mykonos, Greece 🇬🇷 → Zurich, Switzerland 🇨🇭 · EU citizen
 
 ---
 
@@ -22,13 +22,15 @@ schema, API, operator dashboard, deployments, monitoring, on-call.
 
 ![Tools](https://skillicons.dev/icons?i=aws,vercel,docker,github,git,vscode,tailwind,supabase)
 
+**AI-Assisted Development:** Claude Code in daily production use — agentic workflows for support, deployments, and monitoring
+
 ---
 
 ## 🚀 What I'm Building
 
 - **[GuestSync](https://guestsync.app)** — multi-tenant hospitality SaaS, in production across 9 hotels in Mykonos
-- **[Webee](https://webee.gr)** — the digital infrastructure of Mykonos hospitality: 450+ sites and counting
-- 🌱 Member of the [ZurichJS](https://zurichjs.com) developer community
+- **[Webee](https://webee.gr)** — the digital infrastructure of Mykonos hospitality: 500+ sites and counting
+- 🌱 Member of the [ZurichJS](https://zurichjs.com) developer community — at ZurichJS Conf, Sep 2026
 
 ---
 
