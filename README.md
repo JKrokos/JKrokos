@@ -30,7 +30,7 @@ schema, RLS-based tenant isolation, API, operator dashboard, deployments, monito
 
 - **[GuestSync](https://guestsync.app)** — multi-tenant hospitality SaaS, in production across 9 hotels in Mykonos
 - **[Webee](https://webee.gr)** — the digital infrastructure of Mykonos hospitality: 500+ sites and counting
-- 🌱 Member of the [ZurichJS](https://zurichjs.com) developer community — at ZurichJS Conf, Sep 2026
+- 🌱 Member of the [ZurichJS](https://zurichjs.com) developer community
 
 ---
 
