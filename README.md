@@ -6,7 +6,8 @@ Co-founder & lead developer at [Webee](https://webee.gr) — 500+ production web
 booking systems, and payment integrations for the Mykonos hospitality sector over 12+ years.
 
 GuestSync is designed, built, and operated solo: Next.js, TypeScript, Supabase (PostgreSQL) —
-schema, RLS-based tenant isolation, API, operator dashboard, deployments, monitoring, on-call.
+schema, RLS-based tenant isolation, API, operator dashboard, deployments, observability
+(OpenTelemetry, Grafana Cloud, four SLOs with burn rate alerting), on-call.
 
 📍 Mykonos, Greece 🇬🇷 → Zurich, Switzerland 🇨🇭 · EU citizen
 
@@ -20,7 +21,9 @@ schema, RLS-based tenant isolation, API, operator dashboard, deployments, monito
 
 **Cloud & Tools:**
 
-![Tools](https://skillicons.dev/icons?i=aws,vercel,docker,github,git,vscode,tailwind,supabase)
+![Tools](https://skillicons.dev/icons?i=aws,vercel,docker,github,git,vscode,tailwind,supabase,grafana)
+
+**Observability:** OpenTelemetry · Grafana Cloud (traces, metrics, SLOs, error budgets) · burn rate alerting · per tenant SLOs · no guest PII in telemetry
 
 **AI-Assisted Development:** Claude Code in daily production use — agentic workflows for support, deployments, and monitoring
 
@@ -29,6 +32,7 @@ schema, RLS-based tenant isolation, API, operator dashboard, deployments, monito
 ## 🚀 What I'm Building
 
 - **[GuestSync](https://guestsync.app)** — multi-tenant hospitality SaaS, in production across 9 hotels in Mykonos
+- **[Adding Observability to a SaaS Running 9 Hotels](https://www.jkrokos.dev/blog/adding-observability-to-a-saas-running-9-hotels)** — case study: OpenTelemetry + Grafana Cloud, four SLOs, and what the traces found first
 - **[Webee](https://webee.gr)** — the digital infrastructure of Mykonos hospitality: 500+ sites and counting
 - 🌱 Member of the [ZurichJS](https://zurichjs.com) developer community
 
